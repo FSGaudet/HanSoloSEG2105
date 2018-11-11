@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASAPServices</string>
+
+    <string name="service_prompt">Choose a service type</string>
+
+    <string-array name="service_arrays">
+        <item>- Nothing -</item>
+    </string-array>
+</resources>
