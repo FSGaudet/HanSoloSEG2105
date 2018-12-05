@@ -1,7 +1,6 @@
 #Starts Here
 Build Status
-[![Build
-Status](https://circleci.com/gh/FusionOfFire/HanSoloSEG2105.png?branch=master)](https://circleci.com/gh/FusionOfFire/HanSoloSEG2105)
+[![BuildStatus](https://circleci.com/gh/FusionOfFire/HanSoloSEG2105.png?branch=master)](https://circleci.com/gh/FusionOfFire/HanSoloSEG2105)
 #Ends Here
 
 
