@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ASAPServices</string>
+
+    <string name="service_prompt">Choose a service type</string>
+
+    <string-array name="service_arrays">
+        <item>- Nothing -</item>
+    </string-array>
+
+    <string-array name="search_type">
+        <item>Type of service</item>
+        <item>Time</item>
+        <item>Rating</item>
+    </string-array>
+
+</resources>
